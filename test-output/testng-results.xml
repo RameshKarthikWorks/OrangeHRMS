@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56387" started-at="2023-07-28T11:05:45 IST" finished-at="2023-07-28T11:06:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56387" started-at="2023-07-28T11:05:45 IST" finished-at="2023-07-28T11:06:41 IST">
+      <class name="com.OrangeHRM.TestCase.AddEmployeeTest">
+        <test-method status="PASS" signature="fileName()[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="fileName" is-config="true" duration-ms="14" started-at="2023-07-28T11:05:45 IST" finished-at="2023-07-28T11:05:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileName -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="preConditions" is-config="true" duration-ms="7930" started-at="2023-07-28T11:05:46 IST" finished-at="2023-07-28T11:05:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="login" duration-ms="11070" started-at="2023-07-28T11:05:54 IST" data-provider="sendData" finished-at="2023-07-28T11:06:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aakash]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shaswanth]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[RA04]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="postConditions" is-config="true" duration-ms="717" started-at="2023-07-28T11:06:05 IST" finished-at="2023-07-28T11:06:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="preConditions" is-config="true" duration-ms="5747" started-at="2023-07-28T11:06:06 IST" finished-at="2023-07-28T11:06:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="login" duration-ms="12210" started-at="2023-07-28T11:06:11 IST" data-provider="sendData" finished-at="2023-07-28T11:06:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhayaga]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shree]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nayak]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[RA05]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="postConditions" is-config="true" duration-ms="687" started-at="2023-07-28T11:06:24 IST" finished-at="2023-07-28T11:06:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="preConditions" is-config="true" duration-ms="4993" started-at="2023-07-28T11:06:24 IST" finished-at="2023-07-28T11:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="login" duration-ms="11354" started-at="2023-07-28T11:06:29 IST" data-provider="sendData" finished-at="2023-07-28T11:06:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Catherine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fellas]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[christo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[RA06]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.OrangeHRM.TestCase.AddEmployeeTest@166fa74d]" name="postConditions" is-config="true" duration-ms="693" started-at="2023-07-28T11:06:41 IST" finished-at="2023-07-28T11:06:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- com.OrangeHRM.TestCase.AddEmployeeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
